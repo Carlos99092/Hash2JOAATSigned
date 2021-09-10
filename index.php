@@ -2,7 +2,7 @@
 <html lang="en" >
   <head>
     <meta charset="UTF-8">
-    <title>Hash2JOAATUnsigned</title>
+    <title>Hash2JOAATSigned</title>
     <link rel="stylesheet" href="./style.css">
   </head>
   <body>
